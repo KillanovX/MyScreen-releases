@@ -21,3 +21,7 @@ Desde a v0.4.2, **Ligar TV** funciona sem conexão ADB: envia Wake-on-LAN pela r
 Ative **Configurações → Sistema → Energia → Modo de espera → Espera em rede** na TV. Celular e TV devem estar na mesma rede. Desligamento completo pelo menu ou falta de energia impede despertar. O app só confirma ligada depois de resposta ADB/estado Awake; envio de pacote não é confirmação.
 
 Leitura da rede/MAC na TCL real foi validada. O ciclo físico suspender/despertar e a interface no celular permanecem pendentes de teste.
+
+## Interface v0.4.3
+
+**Atualizar app** fica no final da aba **Recursos**, também disponível sem conexão com a TV. **Ligar TV** aparece apenas enquanto desconectado; após conectar, use o Power já existente no controle.
