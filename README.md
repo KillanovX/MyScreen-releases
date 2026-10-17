@@ -25,3 +25,7 @@ Leitura da rede/MAC na TCL real foi validada. O ciclo físico suspender/desperta
 ## Interface v0.4.3
 
 **Atualizar app** fica no final da aba **Recursos**, também disponível sem conexão com a TV. **Ligar TV** aparece apenas enquanto desconectado; após conectar, use o Power já existente no controle.
+
+## Acesso rápido v0.4.4
+
+Na aba **Apps**, toque em **Buscar apps** e marque até três estrelas. Os atalhos aparecem lado a lado abaixo do D-pad em **Controle**, com a seleção salva por endereço da TV. Desmarque uma estrela para remover ou liberar vaga. O subtítulo redundante de conexão foi removido.
