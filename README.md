@@ -33,3 +33,7 @@ Na aba **Apps**, toque em **Buscar apps** e marque até três estrelas. Os atalh
 ## Interface v0.4.5
 
 Removidos o título MyScreen do topo, as mensagens de sucesso dos comandos e a barra geral de ações. Erros aparecem somente quando ocorrem; download e instalação mantêm feedback em Recursos → Atualizar app. Favoritos e Power preservados.
+
+## Logos brancas v0.4.6
+
+A aba Apps mostra logo branca com nome e estrela. Os até três favoritos abaixo do D-pad mostram somente a logo, com nome disponível para acessibilidade. Ícones vêm dos aplicativos instalados na TV e ficam no cache local; a conversão pode simplificar detalhes. Ícone ausente ou inutilizável usa o símbolo Material Apps branco. Conectar ou Buscar apps renova o catálogo e as logos.
