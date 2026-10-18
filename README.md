@@ -29,3 +29,7 @@ Leitura da rede/MAC na TCL real foi validada. O ciclo físico suspender/desperta
 ## Acesso rápido v0.4.4
 
 Na aba **Apps**, toque em **Buscar apps** e marque até três estrelas. Os atalhos aparecem lado a lado abaixo do D-pad em **Controle**, com a seleção salva por endereço da TV. Desmarque uma estrela para remover ou liberar vaga. O subtítulo redundante de conexão foi removido.
+
+## Interface v0.4.5
+
+Removidos o título MyScreen do topo, as mensagens de sucesso dos comandos e a barra geral de ações. Erros aparecem somente quando ocorrem; download e instalação mantêm feedback em Recursos → Atualizar app. Favoritos e Power preservados.
